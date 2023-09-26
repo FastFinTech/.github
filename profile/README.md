@@ -14,14 +14,15 @@ Services I provide:
 
 - **API Wrappers**
 
-  Need to connect your application to a *horrible* api? I build api wrappers that return a readonly domain-driven model producing state change events that dramatically simplify your application code.
+  Need to connect your application to a *horrible* api? I build api wrappers that return a readonly domain-driven model producing state-change events that dramatically simplify your application code.
 
 - **Trading platforms**
 
-  With 20 years experience as a trader and coder, I understand how a trader wants to operate their trading platform to make instrument selection, order entry/modification and position management extremely quick and easy. I know exactly how to architect the code to make it easy to read, easy to maintain, and super fast as well.
+  With 20 years experience as a trader and coder, I understand how a trader wants to operate their trading platform to make instrument selection, order entry/modification and position management extremely quick and easy. I know exactly how to architect trading platform code to make it easy to read, easy to maintain, and super fast as well.
   
-- **CQRS, Domain-driven design, Event Sourcing**
-  My favourite kind of application.
+- **Domain-driven design with CQRS and EventSourcing**
+
+  My preferred style of application development, particularly when paired with Microsoft Orleans and [EventStore](https://www.eventstore.com/)
 
     
   
