@@ -1,4 +1,4 @@
-Playground for a semi-retired FinTech developer and adventure dad. *Update* Currently looking for a full-time project for the next couple of years
+Playground for a semi-retired FinTech developer and adventure dad. *Update:* Currently looking for a full-time project for the next couple of years
 
 Services I provide: 
 
