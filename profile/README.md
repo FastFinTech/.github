@@ -10,7 +10,7 @@ Services I provide:
 
 - **Data feeds**
 
-  Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling.
+  Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling. My data feeds are faster and their domain model makes your application code simpler.
 
 - **API Wrappers**
 
