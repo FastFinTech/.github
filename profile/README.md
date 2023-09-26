@@ -20,7 +20,7 @@ Services I provide:
 
   __*User Expererience*__ With 20 years experience as a trader and coder, I understand how a trader wants to operate their trading platform to make instrument selection, order entry/modification and position management extremely quick and easy.
 
-  __*Developer Experience*__ I know exactly how to architect trading platform code to make it easy to read, easy to maintain, and super fast as well. I understand market data and the position/orders domain models and requirements of a trading platform, particularly for a trader who needs to move fast.
+  __*Developer Experience*__ I architect trading platform code to make it easy to read, easy to maintain, and super fast as well. I understand market data and the position/order/execution domain models and requirements of a trading platform, particularly for a trader who needs to move fast and design active responses to executions and execution failures.
 
   Indicator and trading strategy development. Backtesting. Particularly with [NinjaTrader 8](https://ninjatrader.com/) and with years of experience making backtests reflect realistic live market performance.
   
