@@ -36,7 +36,7 @@ Services I provide:
   
 - **Domain-driven design with CQRS and EventSourcing**
 
-  My preferred style of application development, particularly when paired with Microsoft Orleans and [EventStore](https://www.eventstore.com/)
+  I enjoy this style of application development, particularly when paired with Microsoft Orleans and [EventStore](https://www.eventstore.com/)
 
     
   
