@@ -14,4 +14,7 @@ Services I provide:
 
 - **Trading platforms**
 
+  With 20 years experience as a trader and coder, I understand how a trader wants to operate their trading platform to make instrument selection, order entry/modification and position management extremely quick and easy. I know exactly how to architect the code to make it easy to read, easy to maintain, and super fast as well.
+
+    
   
