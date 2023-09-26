@@ -10,7 +10,7 @@ Services I provide:
 
   Continuous integration / deployment with Github actions and Azure pipelines.
 
-  Container and container orchestration technology.
+  Container and container orchestration technology such as Docker and Kubernetes.
 
 - **Data feeds**
 
