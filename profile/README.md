@@ -8,6 +8,10 @@ Services I provide:
 
   Build scalable distributed applications with [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/ "Orleans home page")
 
+  Continuous integration / deployment with Github actions and Azure pipelines.
+
+  Container and container orchestration technology.
+
 - **Data feeds**
 
   Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling. My data feeds are faster and their domain model makes your application code simpler.
