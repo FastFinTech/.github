@@ -27,6 +27,10 @@ Services I provide:
   __*Developer Experience*__ I architect trading platform code to make it easy to read, easy to maintain, and super fast as well. I understand market data and the position/order/execution domain models and requirements of a trading platform, particularly for a trader who needs to move fast and design active responses to executions and execution failures.
 
   Indicator and trading strategy development. Backtesting. Particularly with [NinjaTrader 8](https://ninjatrader.com/) and with years of experience making backtests reflect realistic live market performance.
+
+  Familiarity with US and International Equity, Fixed Income and Commodity markets
+
+  Understanding of post-trade lifecycle
   
 - **Domain-driven design with CQRS and EventSourcing**
 
