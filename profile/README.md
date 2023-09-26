@@ -14,7 +14,7 @@ Services I provide:
 
 - **API Wrappers**
 
-  Need to connect your application to a *horrible* api? I build api wrappers that return a readonly domain-driven model producing state-change events that dramatically simplify your application code.
+  Need to connect your application to a *horrible* api? I build api wrappers that return domain-driven models producing state-change events that dramatically simplify your application code.
 
 - **Trading platforms**
 
