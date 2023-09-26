@@ -16,6 +16,8 @@ Services I provide:
 
   Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling. My data feeds are faster and their domain model makes your application code simpler.
 
+  Knowledge of FIX protocol.
+
 - **API Wrappers**
 
   Need to connect your application to a *horrible* api? I build api wrappers that return domain-driven models producing state-change events that dramatically simplify your application code.
