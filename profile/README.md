@@ -45,7 +45,7 @@ Playground for a semi-retired FinTech developer and adventure dad. *Update:* Cur
 # Career
  - 2019 - Present: **Adventure Dad**
  
-   I left day to day work at Apex Investing when my son was born to enjoy life with family as a dad. Residual income from Apex Investing has and continues to support this lifestyle. 
+   I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
 
   - 2011 - 2019: **Cofounder and CTO, [Apex Investing](https://apexinvesting.com/)**
 
