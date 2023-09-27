@@ -81,7 +81,7 @@ Playground for a semi-retired FinTech developer and adventure dad. *Update:* Cur
 
   - Sailing - my family likes to liveaboard our sailboat, having coastal adventures.
   - Flying of all kinds, particularly unpowered - I like to compete in cross-country gliding competitiions.
-  - Adventure sports - kitesurfing, trekking, freediving, etc. This was for personal enjoyment, but now it's all about leading the children in the joy life.
+  - Adventure sports - kitesurfing, trekking, freediving, etc. This was for personal enjoyment, but now it's all about leading the children in the joys of life.
   - Psychology, leadership, psycho-spiritual growth. I need to mature to be a better leader for people who depend on me, especially my family.
   - Meditation and other mindfulness practises.
   - Most importantly - being a dad and learning how to create the best possible outcomes for my children.
