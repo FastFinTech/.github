@@ -40,7 +40,7 @@ Playground for a semi-retired FinTech developer and adventure dad. *Update:* Cur
 
 # Education
  - B Eng (First Class Hons) Aerospace Avionics, minor in Systems Engineering
- - 20 years at university of Google and StackOverflow, solving c# programming challenges :)
+ - 20 years at university of Google, StackOverflow and Github, solving c# programming challenges and reading code written by people much smarter than me :)
     
 # Career
  - 2019 - Present: **Adventure Dad**
