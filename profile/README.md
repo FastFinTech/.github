@@ -38,5 +38,25 @@ Services I provide:
 
   I enjoy this style of application development, particularly when paired with Microsoft Orleans and [EventStore](https://www.eventstore.com/)
 
+# Education
+ - B Eng (First Class Hons) Aerospace Avionics, minor in Systems Engineering
+ - 20 years at university of Google and StackOverflow, solving c# programming challenges :)
     
+# Career
+ - 2019 - Present: **Adventure Dad**
+ 
+   I left day to day work at Apex Investing when my son was born to enjoy life with family as a dad. Residual income from the business has and continues to support this lifestyle. 
+
+  - 2011 - 2019: **Cofounder and CTO, Apex Investing**
+
+  - 2002 - 2010: **Derivatives, Futures, and Forex trader**
+
+  - 2000 - 2001: **Systems Engineer, Cooperative Research Center for Satellite Systems**
+
+  - 2001 - 2001: **Systems Engineer, Australian National University**
+
+
+
+
+
   
