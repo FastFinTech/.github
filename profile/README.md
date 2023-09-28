@@ -1,4 +1,4 @@
-Playground for a semi-retired FinTech developer and adventure dad. *Update:* Currently looking for a full-time project for the next couple of years. Please email [bboyle1234@gmail.com](mailto:bboyle1234@gmail.com) or text +61490797637 to contact me.
+Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyle1234@gmail.com) to contact me. I'd love to demo my work for you.
 
 # Services
 
