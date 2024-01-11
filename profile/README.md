@@ -1,4 +1,12 @@
-Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyle1234@gmail.com) to contact me. I'd love to demo my work for you.
+After 20 years writing trading platform software and trading signal software for retail traders, I'd like to move toward work as a quantitative developer for a professional trading team.
+
+I'm very deeply experienced with `c#` language having used it since 2004 and greatly enjoy continuing to learn how to write better code.
+
+Below, you can read the services I offer and my experience to date.
+
+I'd love to demo my work for you. I'm quite shy at self-promotion and tongue-tied in interviews, but I really come alive discussing project requirements and can shine a light on what I have to offer by working together with you in a small project.
+
+Please email [bboyle1234@gmail.com](mailto:bboyle1234@gmail.com) to contact me and do a trial project together.
 
 # Services
 
@@ -14,9 +22,11 @@ Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyl
 
 - **Data feeds**
 
-  Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling. My data feeds are faster and their domain model makes your application code simpler.
+  Architect / build / modernize data feeds with extremely high throughput, redundancy, scaleability, seamless fail-over and intermittent connection handling.
 
-  Knowledge of FIX protocol.
+  My data feeds are faster and more efficient. Their public api surface and domain model makes your application code simpler.
+
+  Deep knowledge of 'FIX protocol', 'SignalR', 'Lightstreamer', and many other messaging formats and data-streaming libraries.
 
 - **API Wrappers**
 
@@ -40,7 +50,7 @@ Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyl
 
 # Education
  - B Eng (First Class Hons) Aerospace Avionics, minor in Systems Engineering
- - 20 years at university of Google, StackOverflow and Github, solving c# programming challenges and reading code written by people much smarter than me :)
+ - 20 years at the universities of Google, StackOverflow and Github, solving c# programming challenges and reading code written by people much smarter than me :)
     
 # Career
  - 2019 - Present: **Adventure Dad**
@@ -59,7 +69,7 @@ Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyl
 
     Traded equities, equity options, futures, and forex using day trading / swing trading techniques.
 
-    Wrote software to facilitate backtesting, indicator and strategy creation and order entry using C# and NinjaTrader 6 and 7. Other traders began to buy software I had written, and this led to creation of Apex Investing in 2011.
+    Wrote software to facilitate backtesting, indicator and strategy creation and order entry using `C#` and NinjaTrader 6 and 7. Other traders began to buy software I had written, and this led to creation of Apex Investing in 2011.
 
     Built a SAAS stock screener service using full-stack .Net web technology plus jQuery and licenced that for use for over ten years by [Wealth Mentors Pte Ltd](https://www.wealthcreationmentors.com/).
 
@@ -67,9 +77,9 @@ Seeking work opportunities now. Please email [bboyle1234@gmail.com](mailto:bboyl
 
   - 2000 - 2001: **Systems Engineer, Cooperative Research Center for Satellite Systems**
 
-    Built an Operations Control Console (OCC) for an experimental satellite using Visual Basic 6. It connected to hardware at various ground stations over the internet.
+    Built an Operations Control Console (OCC) for an experimental satellite using `Visual Basic 6`. It connected to satellite dish hardware at various ground stations over the internet.
 
-    Debugged software onboard the satellite and in the groundstation using Ada.
+    Debugged software onboard the satellite and in the groundstation using `Ada`.
 
   - 2001 - 2001: **Systems Engineer, Australian National University**
 
