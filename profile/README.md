@@ -1,6 +1,6 @@
 After 20 years writing trading platform software and trading signal software for retail traders, I'd like to move toward work as a quantitative developer for a professional trading team.
 
-I'm very deeply experienced with `c#` language having used it since 2004 and greatly enjoy continuing to learn how to write better code.
+I'm very deeply experienced with `c#` language having used it since 2004 and greatly enjoy continuing to learn how to write better code. It's not a job for me. It's a fun and deeply interesting hobby that I happen to be fortunate to make a living from.
 
 Below, you can read the services I offer and my experience to date.
 
