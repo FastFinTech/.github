@@ -1,5 +1,5 @@
 
-Please email [bboyle1234@gmail.com](mailto:bboyle1234@gmail.com) to contact me and do a trial project together.
+Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 
 # Services
 
