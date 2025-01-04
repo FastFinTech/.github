@@ -8,9 +8,11 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 
     Build scalable distributed applications with [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/ "Orleans home page")
 
-  Continuous integration / deployment with Github actions and Azure pipelines.
+    CI/CD and IAC with cloud-based actions, pipelines and infrastructure.
 
-  Container and container orchestration technology such as Docker and Kubernetes.
+    Container and container orchestration technology such as Docker and Kubernetes.
+
+    Write and test efficient high-speed code for your application hot-paths.
 
 - **Data feeds**
 
@@ -20,9 +22,9 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
   
   Deep knowledge of 'FIX protocol', 'SignalR', 'Lightstreamer', and many other messaging formats and data-streaming libraries.
 
-- **API Wrappers**
+- **API or complex dependency Wrappers**
 
-  Need to connect your application to a *horrible* api? I build api wrappers that return domain-driven models producing state-change events that dramatically simplify your application code.
+  Need to connect your application to a *horrible* api or use a complex, badly-engineered, legacy dependency? I build api/dependency wrappers that return domain-driven models producing state-change events that simplify your consuming code and make life easy for you.
 
 - **Trading platforms**
 
