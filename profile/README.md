@@ -50,39 +50,39 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 
    - 2024:  **Chief Engineer, FairTradingTech**
      
-I led the seed funding round and the prototype development of an exchange simulator for CME products. Since we know that our customers need scalability and reliability more than anything, we took the approach of building the test harness first, and performance testing every build. As a result, our prototype has spectacular performance in comparison to existing products without sacrificing any of the business requirements such as bank-like data and state control, immediately-persisted trading data and auditable change logs. I am now leading the first angel funding round via B2B customers, and the tech is ready for building the features we discover our users will need.
+    I led the seed funding round and the prototype development of an exchange simulator for CME products. Since we know that our customers need scalability and reliability more than anything, we took the approach of building the test harness first, and performance testing every build. As a result, our prototype has spectacular performance in comparison to existing products without sacrificing any of the business requirements such as bank-like data and state control, immediately-persisted trading data and auditable change logs. I am now leading the first angel funding round via B2B customers, and the tech is ready for building the features we discover our users will need.
  
    - 2019 - 2023: **Adventure Dad**
  
-   I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
+    I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
 
   - 2011 - 2019: **Cofounder and CTO, [Apex Investing](https://apexinvesting.com/)**
 
-The very short story of Apex is that we started by bringing our own trading systems to the market. Traders using our systems began to request that we perform research tasks that led to the creation of new and better tools, leading to creation of better trading strategies as we listened to and served our customers. After ten years of very intense work we had systems that practically eliminated the need for traders to make discretionary decisions (and corresponding mistakes). Then we provided funding for our traders, removing the last of the obstacles to their success. [Apex Trader Funding](https://apextraderfunding.com), only two years old, has paid out over USD 8 million to our traders in September 2023 alone and has paid out more to their traders than any other futures funded trading program in the industry, EVER.
+    The very short story of Apex is that we started by bringing our own trading systems to the market. Traders using our systems began to request that we perform research tasks that led to the creation of new and better tools, leading to creation of better trading strategies as we listened to and served our customers. After ten years of very intense work we had systems that practically eliminated the need for traders to make discretionary decisions (and corresponding mistakes). Then we provided funding for our traders, removing the last of the obstacles to their success. [Apex Trader Funding](https://apextraderfunding.com), only two years old, has paid out over USD 8 million to our traders in September 2023 alone and has paid out more to their traders than any other futures funded trading program in the industry, EVER.
 
-My role as CTO had me overseeing the development of the trading systems software we used. This was C# code written mostly for NinjaTrader 7 and then NinjaTrader 8, plus our backend hosted systems supporting business activities and trading support data.
+    My role as CTO had me overseeing the development of the trading systems software we used. This was C# code written mostly for NinjaTrader 7 and then NinjaTrader 8, plus our backend hosted systems supporting business activities and trading support data.
 
-Apex went through a period of trading derivatives at [Nadex](https://nadex.com) and we built our own trading platform to meet our traders' exact needs for a much faster data feed and custom user interface with advanced order creation/handling
+    Apex went through a period of trading derivatives at [Nadex](https://nadex.com) and we built our own trading platform to meet our traders' exact needs for a much faster data feed and custom user interface with advanced order creation/handling
 
   - 2002 - 2010: **Derivatives, Futures, and Forex trader**
 
-Traded equities, equity options, futures, and forex using day trading / swing trading techniques.
+    Traded equities, equity options, futures, and forex using day trading / swing trading techniques.
 
-Wrote software to facilitate backtesting, indicator and strategy creation and order entry using `C#` and NinjaTrader 6 and 7. Other traders began to buy software I had written, and this led to creation of Apex Investing in 2011.
+    Wrote software to facilitate backtesting, indicator and strategy creation and order entry using `C#` and NinjaTrader 6 and 7. Other traders began to buy software I had written, and this led to creation of Apex Investing in 2011.
 
-Built a SAAS stock screener service using full-stack .Net web technology plus jQuery and licenced that for use for over ten years by [Wealth Mentors Pte Ltd](https://www.wealthcreationmentors.com/).
+    Built a SAAS stock screener service using full-stack .Net web technology plus jQuery and licenced that for use for over ten years by [Wealth Mentors Pte Ltd](https://www.wealthcreationmentors.com/).
 
-Built a replacement trading platform for [Tradency](https://www.tradency.com/) to facilitate my own trading activity with faster/more convenient order entry/modification features before they released their own `Mirror Trader` platform.
+    Built a replacement trading platform for [Tradency](https://www.tradency.com/) to facilitate my own trading activity with faster/more convenient order entry/modification features before they released their own `Mirror Trader` platform.
 
   - 2000 - 2001: **Systems Engineer, Cooperative Research Center for Satellite Systems**
 
-Built an Operations Control Console (OCC) for an experimental satellite using `Visual Basic 6`. It connected to satellite dish hardware at various ground stations over the internet.
+    Built an Operations Control Console (OCC) for an experimental satellite using `Visual Basic 6`. It connected to satellite dish hardware at various ground stations over the internet.
 
-Debugged software onboard the satellite and in the groundstation using `Ada`.
+    Debugged software onboard the satellite and in the groundstation using `Ada`.
   
   - 2001 - 2001: **Systems Engineer, Australian National University**
 
-Built a helicopter flight control system using ANSI C
+    Built a helicopter flight control system using ANSI C
   
   - 1996 - 2000: **Soldier, Australian Army**
   
