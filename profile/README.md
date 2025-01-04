@@ -68,10 +68,13 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
     Built a replacement trading platform for [Tradency](https://www.tradency.com/) to facilitate my own trading activity with faster/more convenient order entry/modification features before they released their own `Mirror Trader` platform.
 
   - 2000 - 2001: **Systems Engineer, Cooperative Research Center for Satellite Systems**
+
     Built an Operations Control Console (OCC) for an experimental satellite using `Visual Basic 6`. It connected to satellite dish hardware at various ground stations over the internet.
+
     Debugged software onboard the satellite and in the groundstation using `Ada`.
   
   - 2001 - 2001: **Systems Engineer, Australian National University**
+
     Built a helicopter flight control system using ANSI C
   
   - 1996 - 2000: **Soldier, Australian Army**
