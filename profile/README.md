@@ -49,11 +49,12 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 # Career
 
    - 2024:  **Chief Engineer, FairTradingTech**
+
      I led the seed funding round and the prototype development of an exchange simulator for CME products. Since we know that our customers need scalability and reliability more than anything, we took the approach of building the test harness first, and performance testing every build. As a result, our prototype has spectacular performance in comparison to existing products without sacrificing any of the business requirements such as bank-like data and state control, immediately-persisted trading data and auditable change logs. I am now leading the first angel funding round via B2B customers, and the tech is ready for building the features we discover our users will need.
  
    - 2019 - 2023: **Adventure Dad**
- 
-    I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
+
+     I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
 
   - 2011 - 2019: **Cofounder and CTO, [Apex Investing](https://apexinvesting.com/)**
 
