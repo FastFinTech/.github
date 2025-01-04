@@ -4,9 +4,9 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 
 - **Cloud applications**
 
-  Architect / build / modernize scalable cloud applications with [Azure](https://azure.microsoft.com/en-au) and [AWS](https://aws.amazon.com/)
+    Architect / build / modernize scalable cloud applications with [Azure](https://azure.microsoft.com/en-au) and [AWS](https://aws.amazon.com/)
 
-  Build scalable distributed applications with [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/ "Orleans home page")
+    Build scalable distributed applications with [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/ "Orleans home page")
 
   Continuous integration / deployment with Github actions and Azure pipelines.
 
