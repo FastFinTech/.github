@@ -56,7 +56,7 @@ Please message me on my Discord id, `fast_fin_tech` to setup a meeting.
 
      I handed over day to day work at Apex Investing when my son was born to enjoy quality of life with family as a dad.
 
-  - 2011 - 2019: **Cofounder and CTO, [Apex Investing](https://apexinvesting.com/)**
+  - 2011 - 2019: **CTO, [Apex Investing](https://apexinvesting.com/)**
 
     The very short story of Apex is that we started by bringing our own trading systems to the market. Traders using our systems began to request that we perform research tasks that led to the creation of new and better tools, leading to creation of better trading strategies as we listened to and served our customers. After ten years of very intense work we had systems that practically eliminated the need for traders to make discretionary decisions (and corresponding mistakes). Then we provided funding for our traders, removing the last of the obstacles to their success. [Apex Trader Funding](https://apextraderfunding.com), only two years old, has paid out over USD 8 million to our traders in September 2023 alone and has paid out more to their traders than any other futures funded trading program in the industry, EVER.
 
